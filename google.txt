@@ -1,0 +1,1 @@
+ssh -i "devoptrainingplatform2022.pem" ec2-user@ec2-3-98-144-75.ca-central-1.compute.amazonaws.comssh -i "devoptrainingplatform2022.pem" ec2-user@ec2-3-98-144-75.ca-central-1.compute.amazonaws.cokdmksdmsdmmdkvcnosdnvonsdvkdslplsapcflkasncfosadnvjsdnv sdvk[sdpvk sdkmnvcm
